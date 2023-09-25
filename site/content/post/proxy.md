@@ -1,5 +1,5 @@
 ---
-title: Proxy
+title: Proxy is fancy
 date: 2023-09-25T00:44:56.031Z
 description: >-
   WOVN Proxy is a cloud based translation proxy powered by Fastly’s global
